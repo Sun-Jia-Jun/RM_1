@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sun/code/OpenCV/HomeWork/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/sun/code/OpenCV/HomeWork/main.cpp",
+  "file": "/home/sun/code/OpenCV/HomeWork/main.cpp"
+},
+{
+  "directory": "/home/sun/code/OpenCV/HomeWork/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/2.dir/binarization.cpp.o -c /home/sun/code/OpenCV/HomeWork/binarization.cpp",
+  "file": "/home/sun/code/OpenCV/HomeWork/binarization.cpp"
+}
+]

@@ -1,3 +1,4 @@
-/home/sun/code/sample_code/HomeWork/build/CMakeFiles/main.dir
-/home/sun/code/sample_code/HomeWork/build/CMakeFiles/edit_cache.dir
-/home/sun/code/sample_code/HomeWork/build/CMakeFiles/rebuild_cache.dir
+/home/sun/code/OpenCV/HomeWork/build/CMakeFiles/main.dir
+/home/sun/code/OpenCV/HomeWork/build/CMakeFiles/2.dir
+/home/sun/code/OpenCV/HomeWork/build/CMakeFiles/edit_cache.dir
+/home/sun/code/OpenCV/HomeWork/build/CMakeFiles/rebuild_cache.dir
